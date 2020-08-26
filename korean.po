@@ -25,7 +25,7 @@ msgstr "이게 내 마지막 모습이야. 너무 놀라워. 나 좋은 냄새�
 #: /Game/Dialogue/MegaSlime/Default/MegaSlimePlay_RL.Default__MegaSlimePlay_RL_C.ResponseData(0).ResponseData.BreederPrompt
 msgctxt ",00164C5345E544D784CC289035CEF701"
 msgid "About that orb..."
-msgstr ""
+msgstr "그 오브에 관해서 말인데..."
 
 #. Key:	002DAFE7433D240D0A5822A932016D65
 #. SourceLocation:	/Game/Ranch/Upgrades/BovaurShed.Default__BovaurShed_C.Upgrade.DisplayName
@@ -200,7 +200,7 @@ msgstr "아아 좋아! 아아아....내 오래된 보지를 뚫어줘..."
 #: /Game/Dialogue/Mirru/Default/MirruHadSex01.Default__MirruHadSex01_C.SessionData.LinesToFemale(1).LinesToFemale
 msgctxt ",0468AC1040BB9A10D1960B833F9A8305"
 msgid "For that I am thankful."
-msgstr ""
+msgstr "정말 고마워"
 
 #. Key:	04744CA84CBAE9AB13EA1989A23A0DDC
 #. SourceLocation:	/Game/Dialogue/Falene/Default/FaleneDefault01.Default__FaleneDefault01_C.SessionData.Lines(0).Lines
